@@ -32,3 +32,7 @@ kbd{display:inline-block;min-width:18px;padding:0 5px;border:1px solid rgba(255,
 #fin.on{display:flex}
 #mm{inset:auto;right:16px;top:16px;width:160px;height:160px;border-radius:14px;border:1px solid rgba(255,255,255,.28);box-shadow:0 6px 22px rgba(0,0,0,.4);pointer-events:none;display:none}
 #attr{left:50%;transform:translateX(-50%);bottom:6px;font-size:11px;opacity:.6;white-space:nowrap}
+
+#guide{left:50%;top:64px;transform:translateX(-50%);text-align:center;font-size:13px;display:none;white-space:nowrap}
+#garrow{display:inline-block;font-size:30px;line-height:1;color:#7cffb2;transition:transform .08s linear}
+#gtxt{margin-top:2px}
